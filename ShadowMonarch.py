@@ -6,7 +6,7 @@ import requests
 import os
 import instaloader
 
-BOT_TOKEN = "7325845075:AAFPuUFgZg6nwS8nUqqMbSRK-sChsRIxsDc"
+BOT_TOKEN = "Your_Bot_Token"
 DOWNLOAD_DIR = "downloads"
 
 # Ensure the downloads directory exists
